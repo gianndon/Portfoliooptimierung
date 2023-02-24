@@ -1,4 +1,4 @@
-# Portfoliooptimierung
+# Portfolio optimization
 This repository is for the portfolio optimization for the group Swisscon
 Members:
   gianndon
